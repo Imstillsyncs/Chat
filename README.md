@@ -8,7 +8,7 @@ Links will be coming soon
 
 # Socials
 
-GitHub:@Imstillsyncs
-Replit:https://replit.com/@Syncsgxtvibezz
-Email: tjrobinson693@bullochschools.org
+<p>GitHub:@Imstillsyncs</p>
+<p>Replit:https://replit.com/@Syncsgxtvibezz</p>
+<p>Email: tjrobinson693@bullochschools.org</p>
 
