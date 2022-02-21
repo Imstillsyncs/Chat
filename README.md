@@ -1,6 +1,6 @@
 # Chat
 
-This is a game made with html, js, css, socket.io, and express
+This is a chat made with html, js, css, socket.io, and express
 
 # Links
 
